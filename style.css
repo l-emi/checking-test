@@ -84,9 +84,9 @@ h3 {
 }
 
 .answers {
-    margin-top: 55px;
-    padding: 0px 0 10px 0px;
     font-weight: bold;
+    display: relative;
+    margin-top: 50px;
 }
 
 .answers div:first-child {
