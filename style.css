@@ -98,3 +98,22 @@ h3 {
 .false {
     background-color: #C44536;
 }
+
+#link-bar {
+    display: table;
+    margin: 0 auto;
+    background-color: #3F9CA3;
+    color: #415956;
+}
+
+.links {
+    display: table-cell;
+    padding: 8px 10px;
+    border: 2px solid #415956;
+    border-top: none;
+    border-right: none;
+}
+
+#ten {
+    border-right: 2px solid #415956 !important;
+}
