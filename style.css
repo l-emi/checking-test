@@ -11,6 +11,12 @@ body, html {
     color: #E4E4E4;
 }
 
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #415956 !important;
+}
+
 .quiz {
     background-color: #E4E4E4;
     padding-bottom: 60px;
