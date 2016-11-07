@@ -20,4 +20,4 @@ console.log("[" + "'" + gen() + "', '" + gen() + "', '" + gen() + "', '" + gen()
 //"['51714', '79230', '48591', '98731', '32194', 1]"
 ```
 
-![Preview Image](http://i.imgur.com/Sz0zNjI.png?1)
+![Preview Image](http://i.imgur.com/CHSZXBb.png?1)
