@@ -5,7 +5,7 @@ Match a number to one of the 5 options. 60 questions, and the digits of the numb
 
 There are so many things that could be improved here. The real test has a time limit going from 10 seconds to 5. I could have designed an algorithm instead of hard-coding the questions and answers. However, due to the time constraint I made a simple version.
 
-I used this code to generate random numbers and answer positions: 
+I used this code to generate random numbers and answer positions (I changed them around later to make the test more difficult): 
 
 ```javascript
 function gen() {
